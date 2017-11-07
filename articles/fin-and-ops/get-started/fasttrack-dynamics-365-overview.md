@@ -315,4 +315,4 @@ The Servicing tech talk is designed to provide guidance on the servicing options
 -   Submitting a service request
 -   Cloud powered support
 
-The typical format is a one-hour Skype call. The recommended attendees include project managers and technical resources from customer and partner teams.
+The typical format is a one-hour Skype call. The recommended attendees include project managers and technical resources from customer and partner teams.  
