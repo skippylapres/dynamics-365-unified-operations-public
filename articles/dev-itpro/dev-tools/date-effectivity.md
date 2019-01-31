@@ -75,7 +75,7 @@ There are scenarios where date-effective filtering is required outside the data
 
 This article describes the use of these date-effective properties and the interactions between them.
 
-### State matrixes for reads
+### State matrixes for reads from data entities
 
 This section concerns only reads from the data entity. The following pair of reference matrixes describe the combinations of date-effective states that can exist between a data entity and its data source. Each table contains four cases, and each case discusses two distinct targets. Here are the primary points that you should understand:
 
